@@ -9,4 +9,6 @@ The OMDb Api (https://www.omdbapi.com/) was used to get information about the mo
 
 To access the API and calls to it, head over to https://www.omdbapi.com/apikey.aspx and get your own key. After which, all you need to do is paste your key in the api request being made in the fetchApi() function.
 
+To run the code, you would first have to run npm i to install all the node modules. After which, you just need to run npm start.
+
 
